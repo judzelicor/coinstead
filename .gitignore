@@ -1,0 +1,8 @@
+# MacOS Generated
+.DS_Store
+
+# Node
+node_modules
+
+# Nextjs Generated FIles
+.next
